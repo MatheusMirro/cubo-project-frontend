@@ -12,7 +12,8 @@ npm install
 
 ## Foto do projeto
 
-//foto
+![foto](https://user-images.githubusercontent.com/47016580/178541817-fb1d6c34-b269-41d5-aa51-b53c4aa353cf.jpg)
+
 
 ## Contributing
 
